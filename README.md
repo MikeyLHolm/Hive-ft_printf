@@ -27,8 +27,9 @@ shame not to being able to do it because your can’t read your own work. What d
 * dprintf
 
 ## Current Issues
-* Float precision of 19+ has rounding issues in some cases.
-*
-*
-
+* Precision of >19 not rounding up correctly for ex. ("%.20f\n", 1.025978542436587568678)
+* Wildcard not working correctly with:
+  * Negative precision with numbers
+  * ncorrect amount of arguments
+  
 _Completed 29.1.2019._

@@ -17,7 +17,7 @@ shame not to being able to do it because your can’t read your own work. What d
 
 ## Grade
 
-**- / 100**
+**112 / 100**
 
 ## Implemented Bonuses
 * Font and background colors
@@ -27,8 +27,8 @@ shame not to being able to do it because your can’t read your own work. What d
 * dprintf
 
 ## Current Issues
-*
+* Float precision of 19+ has rounding issues in some cases.
 *
 *
 
-_28-1-2020: Still under construction._
+_Completed 29.1.2019._
